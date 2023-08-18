@@ -1,0 +1,58 @@
+.board {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+  }
+  .board input {
+    padding: 4px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .board button {
+    padding: 4px 8px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .board {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    background-color: #F5F5DC /* Light background color */
+  }
+  .add-task {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+  }
+  
+  .add-task input {
+    padding: 4px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-task button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 8px;
+  }
+  .add-task button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
